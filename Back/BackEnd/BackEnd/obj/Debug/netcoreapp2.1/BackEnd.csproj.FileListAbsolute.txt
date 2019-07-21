@@ -1,0 +1,14 @@
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.deps.json
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.json
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.runtimeconfig.dev.json
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.dll
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\bin\Debug\netcoreapp2.1\BackEnd.pdb
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorTargetAssemblyInfo.cache
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.dll
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.pdb
+D:\IGOR\Estudo\TesteLocaliza\Back\BackEnd\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
